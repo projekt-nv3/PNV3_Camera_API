@@ -4,7 +4,7 @@
 ### Prerequisites
 
 - [ ] Compute Module is Power down
- All Connections are unplugged
+- [ ] All Connections are unplugged
 
 
 ---
